@@ -21,6 +21,16 @@ function div(a, b) {
     // Si b es 0 retornar "Error: div by 0"
 }
 
-function pow(a, b) {}
+function pow(a, b) {
+    if (b == 0) {
+        return 1;
+    } else{
+        let resultado = 1;
+        for (let i = 0; i < b; i++) {
+        resultado = resultado * a;
+        } 
+        return resultado;
+    }
+}
 
 module.exports = fns;
