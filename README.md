@@ -18,3 +18,4 @@ npm run test
 ## Integrantes del grupo
 
 - Ramiro Río Drulos
+- Rodrigo Martín Maceiras
