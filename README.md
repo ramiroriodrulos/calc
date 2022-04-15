@@ -19,3 +19,4 @@ npm run test
 
 - Ramiro Río Drulos
 - Rodrigo Martín Maceiras
+- Valentin Petti
