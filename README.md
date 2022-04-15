@@ -14,3 +14,7 @@ npm run start
 # correr los test
 npm run test
 ```
+
+## Integrantes del grupo
+
+- Ramiro Río Drulos
